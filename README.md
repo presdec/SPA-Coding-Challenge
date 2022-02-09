@@ -50,6 +50,7 @@ To start the application, in the project directory, run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+(Node v16.14.0 LTS was used to build/test and run, code was also tested on 17.4.0 current)
 
 The page will reload if you make edits to the src code.\
 You will also see any lint errors in the console.
