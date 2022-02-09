@@ -140,6 +140,7 @@ Had this been a full production-level application I would have preferred to also
 
  - Use a component library that would have provided me with more
    customization and styling options.
+ - Dockerised the solution.
  - Introduce a login and authorization solution as well as client <-> backend security.
  - Introduce logic to make the SPA a full CRED (create - read - edit -delete) web app.
  - Theming and eye protection support.
