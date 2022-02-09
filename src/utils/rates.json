@@ -1,0 +1,842 @@
+{
+    "JPY": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "CNY": {
+        "EUR": {
+            "amount": 13,
+            "scale": 2
+        }
+    },
+    "CHF": {
+        "EUR": {
+            "amount": 94,
+            "scale": 2
+        }
+    },
+    "CAD": {
+        "EUR": {
+            "amount": 68,
+            "scale": 2
+        }
+    },
+    "MXN": {
+        "EUR": {
+            "amount": 4,
+            "scale": 2
+        }
+    },
+    "INR": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "BRL": {
+        "EUR": {
+            "amount": 16,
+            "scale": 2
+        }
+    },
+    "RUB": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "KRW": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "IDR": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "TRY": {
+        "EUR": {
+            "amount": 6,
+            "scale": 2
+        }
+    },
+    "SAR": {
+        "EUR": {
+            "amount": 23,
+            "scale": 2
+        }
+    },
+    "SEK": {
+        "EUR": {
+            "amount": 9,
+            "scale": 2
+        }
+    },
+    "NGN": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "PLN": {
+        "EUR": {
+            "amount": 21,
+            "scale": 2
+        }
+    },
+    "ARS": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "NOK": {
+        "EUR": {
+            "amount": 9,
+            "scale": 2
+        }
+    },
+    "TWD": {
+        "EUR": {
+            "amount": 3,
+            "scale": 2
+        }
+    },
+    "IRR": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "AED": {
+        "EUR": {
+            "amount": 23,
+            "scale": 2
+        }
+    },
+    "COP": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "THB": {
+        "EUR": {
+            "amount": 2,
+            "scale": 2
+        }
+    },
+    "ZAR": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "DKK": {
+        "EUR": {
+            "amount": 13,
+            "scale": 2
+        }
+    },
+    "MYR": {
+        "EUR": {
+            "amount": 20,
+            "scale": 2
+        }
+    },
+    "SGD": {
+        "EUR": {
+            "amount": 64,
+            "scale": 2
+        }
+    },
+    "ILS": {
+        "EUR": {
+            "amount": 27,
+            "scale": 2
+        }
+    },
+    "HKD": {
+        "EUR": {
+            "amount": 11,
+            "scale": 2
+        }
+    },
+    "EGP": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "PHP": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "CLP": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "PKR": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "IQD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "DZD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "KZT": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "QAR": {
+        "EUR": {
+            "amount": 23,
+            "scale": 2
+        }
+    },
+    "CZK": {
+        "EUR": {
+            "amount": 4,
+            "scale": 2
+        }
+    },
+    "PEN": {
+        "EUR": {
+            "amount": 22,
+            "scale": 2
+        }
+    },
+    "RON": {
+        "EUR": {
+            "amount": 20,
+            "scale": 2
+        }
+    },
+    "VND": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "BDT": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "HUF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "UAH": {
+        "EUR": {
+            "amount": 3,
+            "scale": 2
+        }
+    },
+    "AOA": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "MAD": {
+        "EUR": {
+            "amount": 9,
+            "scale": 2
+        }
+    },
+    "OMR": {
+        "EUR": {
+            "amount": 226,
+            "scale": 2
+        }
+    },
+    "CUC": {
+        "EUR": {
+            "amount": 3,
+            "scale": 2
+        }
+    },
+    "BYR": {
+        "EUR": {
+            "amount": 33,
+            "scale": 2
+        }
+    },
+    "AZN": {
+        "EUR": {
+            "amount": 51,
+            "scale": 2
+        }
+    },
+    "LKR": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "SDG": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "SYP": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "MMK": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "DOP": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "UZS": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "KES": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "GTQ": {
+        "EUR": {
+            "amount": 11,
+            "scale": 2
+        }
+    },
+    "URY": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "HRV": {
+        "EUR": {
+            "amount": 13,
+            "scale": 2
+        }
+    },
+    "MOP": {
+        "EUR": {
+            "amount": 10,
+            "scale": 2
+        }
+    },
+    "ETB": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "CRC": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "TZS": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "TMT": {
+        "EUR": {
+            "amount": 25,
+            "scale": 2
+        }
+    },
+    "TND": {
+        "EUR": {
+            "amount": 30,
+            "scale": 2
+        }
+    },
+    "PAB": {
+        "EUR": {
+            "amount": 87,
+            "scale": 2
+        }
+    },
+    "LBP": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "RSD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "LYD": {
+        "EUR": {
+            "amount": 19,
+            "scale": 2
+        }
+    },
+    "GHS": {
+        "EUR": {
+            "amount": 13,
+            "scale": 2
+        }
+    },
+    "YER": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "BOB": {
+        "EUR": {
+            "amount": 12,
+            "scale": 2
+        }
+    },
+    "BHD": {
+        "EUR": {
+            "amount": 231,
+            "scale": 2
+        }
+    },
+    "CDF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "PYG": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "UGX": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "SVC": {
+        "EUR": {
+            "amount": 9,
+            "scale": 2
+        }
+    },
+    "TTD": {
+        "EUR": {
+            "amount": 12,
+            "scale": 2
+        }
+    },
+    "AFN": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "NPR": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "HNL": {
+        "EUR": {
+            "amount": 3,
+            "scale": 2
+        }
+    },
+    "BIH": {
+        "EUR": {
+            "amount": 51,
+            "scale": 2
+        }
+    },
+    "BND": {
+        "EUR": {
+            "amount": 64,
+            "scale": 2
+        }
+    },
+    "ISK": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "KHR": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "GEL": {
+        "EUR": {
+            "amount": 29,
+            "scale": 2
+        }
+    },
+    "MZN": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "BWP": {
+        "EUR": {
+            "amount": 7,
+            "scale": 2
+        }
+    },
+    "PGK": {
+        "EUR": {
+            "amount": 24,
+            "scale": 2
+        }
+    },
+    "JMD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "XAF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "NAD": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "ALL": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "SSP": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "MUR": {
+        "EUR": {
+            "amount": 2,
+            "scale": 2
+        }
+    },
+    "MNT": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "NIO": {
+        "EUR": {
+            "amount": 2,
+            "scale": 2
+        }
+    },
+    "LAK": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "MKD": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "AMD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "MGA": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "XPF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "TJS": {
+        "EUR": {
+            "amount": 7,
+            "scale": 2
+        }
+    },
+    "HTG": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "BSD": {
+        "EUR": {
+            "amount": 87,
+            "scale": 2
+        }
+    },
+    "MDL": {
+        "EUR": {
+            "amount": 4,
+            "scale": 2
+        }
+    },
+    "RWF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "KGS": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "GNF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "SRD": {
+        "EUR": {
+            "amount": 4,
+            "scale": 2
+        }
+    },
+    "SLL": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "XOF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "MWK": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "FJD": {
+        "EUR": {
+            "amount": 40,
+            "scale": 2
+        }
+    },
+    "ERN": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "SZL": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "GYD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "BIF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "KYD": {
+        "EUR": {
+            "amount": 105,
+            "scale": 2
+        }
+    },
+    "MVR": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "LSL": {
+        "EUR": {
+            "amount": 5,
+            "scale": 2
+        }
+    },
+    "LRD": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "CVE": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "DJF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "SCR": {
+        "EUR": {
+            "amount": 6,
+            "scale": 2
+        }
+    },
+    "SOS": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "GMD": {
+        "EUR": {
+            "amount": 1,
+            "scale": 2
+        }
+    },
+    "KMF": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "STD": {
+        "EUR": {
+            "amount": 4,
+            "scale": 2
+        }
+    },
+    "BTC": {
+        "EUR": {
+            "amount": 3638,
+            "scale": 2
+        }
+    },
+    "XRP": {
+        "EUR": {
+            "amount": 55,
+            "scale": 2
+        }
+    },
+    "AUD": {
+        "EUR": {
+            "amount": 61,
+            "scale": 2
+        }
+    },
+    "BGN": {
+        "EUR": {
+            "amount": 51,
+            "scale": 2
+        }
+    },
+    "JOD": {
+        "EUR": {
+            "amount": 123,
+            "scale": 2
+        }
+    },
+    "GBP": {
+        "EUR": {
+            "amount": 118,
+            "scale": 2
+        }
+    },
+    "ETH": {
+        "EUR": {
+            "amount": 256850,
+            "scale": 2
+        }
+    },
+    "EUR": {
+        "EUR": {
+            "amount": 100,
+            "scale": 2
+        }
+    },
+    "LTC": {
+        "EUR": {
+            "amount": 10347,
+            "scale": 2
+        }
+    },
+    "NZD": {
+        "EUR": {
+            "amount": 57,
+            "scale": 2
+        }
+    },
+    "USD": {
+        "EUR": {
+            "amount": 87,
+            "scale": 2
+        }
+    }
+}
